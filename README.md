@@ -1,4 +1,8 @@
 ## Hi, I Am Lautaro Scaravaglione
+
+<img src="https://github.com/lautaroscara/lautaroscara/blob/main/template.jpg">
+
+
   I am a junior software developer who has worked with HTML, CSS, JavaScript, PHP, MySQL, Python, and Flask. Nowadays, I am improving my skills with these technologies while learning about new tools and languages to expand my knowledge. I am passionate about learning and facing new challenges, and I am constantly looking for opportunities to improve as a professional in web and backend development.
 
 ## Contact me
