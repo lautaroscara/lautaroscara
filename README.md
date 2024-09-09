@@ -4,6 +4,6 @@
 ## Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/lautiscara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=lautiscara@gmail.com)](mailto:lautiscara@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-lautiscara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-scaravaglione-b70166255)](www.linkedin.com/in/lautaro-scaravaglione-b70166255)
+[![Linkedin Badge](https://img.shields.io/badge/-lautiscara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-scaravaglione-b70166255/)](https://www.linkedin.com/in/lautaro-scaravaglione-b70166255/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/lautaroscara)](https://github.com/lautaroscara)
 
